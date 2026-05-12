@@ -4,3 +4,4 @@ def even(num):
     else:
         print(False)
 even(20)
+print("Badal")
